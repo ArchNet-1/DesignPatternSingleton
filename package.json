@@ -1,0 +1,19 @@
+{
+  "name": "com.archnet.designpattern.singleton",
+  "version": "1.0.0",
+  "displayName": "Arch Net Design Pattern Singleton",
+  "description": "Design Pattern Singleton.",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Extension",
+    "DesignPattern",
+    "Singleton"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}
