@@ -50,7 +50,7 @@ namespace ArchNet.Design.Pattern.Singleton
             }
         }
 
-        #endregion
+        #endregion  
     }
 
 }
