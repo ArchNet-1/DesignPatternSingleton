@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Singleton Pattern",
   "description": "A MonoBehaviour that exists once in the scene, reachable from anywhere with MyManager.Instance.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#DesignPatternSingleton",
   "changelogUrl": "https://github.com/ArchNet-1/DesignPatternSingleton/blob/master/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/DesignPatternSingleton/blob/master/LICENSE.md",

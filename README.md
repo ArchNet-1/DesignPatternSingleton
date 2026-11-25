@@ -31,4 +31,4 @@ Tick *Keep Between Scenes* to keep it alive across scene loads.
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
