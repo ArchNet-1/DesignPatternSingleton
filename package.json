@@ -1,19 +1,20 @@
 {
   "name": "com.archnet.designpattern.singleton",
-  "version": "1.0.0",
-  "displayName": "Arch Net Design Pattern Singleton",
-  "description": "Design Pattern Singleton.",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Singleton Pattern",
+  "description": "A MonoBehaviour that exists once in the scene, reachable from anywhere with MyManager.Instance.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#DesignPatternSingleton",
+  "changelogUrl": "https://github.com/ArchNet-1/DesignPatternSingleton/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/DesignPatternSingleton/blob/master/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "DesignPattern",
-    "Singleton"
+    "archnet",
+    "designpattern",
+    "singleton"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
